@@ -1,2 +1,4 @@
-(BMIcalculator/calculator.png)
-(BMIcalculator/calculatorResult.png)
+
+![calculator window](calculator.png)
+![results exmp](calculatorresult.png)
+
