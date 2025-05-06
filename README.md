@@ -1,4 +1,6 @@
 
 ![calculator window](calculator.png)
-![results exmp](calculatorresult.png)
+
+
+![results exmp](calculatorResult.png)
 
